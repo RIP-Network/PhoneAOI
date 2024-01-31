@@ -22,6 +22,8 @@ Para apoyar este proyecto estaria bien dejar una estrella para que pueda seguir 
 [*] Python 3.11 +
 
 ```
+Los unicos requisitos son tener una versión superior a Python 3.11 en Windows para poder ejecutar el archivo y que funcione correctamente.
+
 # 🛠 Sistemas testeados 🛠
 ```bash
 
@@ -30,9 +32,12 @@ Para apoyar este proyecto estaria bien dejar una estrella para que pueda seguir 
 [*] Ubuntu ( Wine )
 
 ```
+
 # 🔱 Versiones 🔱
 
 En este apartado podras ver las versiones que ha tenido y sus cambios para saber las modificaciones que ha tenido y puede llegar a tener la herramienta.
+
+Para que la herramienta se siga actualizando puedes apoyar la herramienta dandole una estrella en el repositorio oficial.
 
 <details>
   <summary>[ v1.0 ]</summary>
@@ -47,11 +52,11 @@ En este apartado podras ver las versiones que ha tenido y sus cambios para saber
 
 1. Deberemos descargar el archivo desde el repositorio oficial de GitHub.
 
-2. Una vez lo tengamos lo podremos descomprimir donde queramos.
+2. Una vez lo tengamos lo podremos descomprimir donde queramos y esperamos a que se descomprima.
 
-3. Una vez descomprimido deberemos ejecutar el ejecutable.
+3. Una vez descomprimido deberemos ejecutar el ejecutable exe que nos dara una vez descomprimido.
 
-4. Una vez dentro deberemos poner el número de teléfono, podremos poner el de cualquier pais.
+4. Una vez dentro deberemos esperar un rato a que se cargue el banner y una vez nos haya cargado lo podamos usar, cuando cargue únicamente deberemos poner el número de la víctima como por ejemplo +34666775544.
 
 # 📷 Captura 📷
 
