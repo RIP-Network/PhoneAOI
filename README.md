@@ -8,6 +8,8 @@ Esta herramienta se puede usar como una herramienta de OSINT para un número de 
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
 
+![Screenshot](/images/banner.png)
+
 # ❤️ Gratuito ❤️
 
 Esta herramienta es totalmente gratuita para que no tenga límites, la herramienta se ira actualizando cada poco tiempo para que se puedan añadir nuevos módulos y más opciones.
