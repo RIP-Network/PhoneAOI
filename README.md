@@ -64,4 +64,3 @@ Si crees que has encontrado algún fallo puedes reportarlo en este apartado para
 * IG : https://instagram.com/ripnetworkyt
   
 * GH : https://github.com/RIP-Network
-* 
