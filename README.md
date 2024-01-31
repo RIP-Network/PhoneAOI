@@ -1,8 +1,8 @@
 # 👑 PhoneAOI 👑
 
-Herramienta para windows para poder verificar si un correo esta verificado en varias webs y intentar extraer información de ellas.
+Herramienta para windows para poder verificar si un número esta verificado en varias webs y intentar extraer información de ellas.
 
-Esta herramienta se puede usar como una herramienta de OSINT para un número de teléfono y saber en donde esta registrado.
+Esta herramienta se puede usar como una herramienta de OSINT para un número de teléfono y saber en donde esta registrado, la herramienta aun sigue en desarrollo y se iran añadiendo nuevos módulos con el tiempo.
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/PhoneAOI-purple"/></p>
 
