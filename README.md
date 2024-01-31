@@ -6,7 +6,7 @@ Esta herramienta se puede usar como una herramienta de OSINT para un número de 
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/PhoneAOI-purple"/></p>
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.3-purple.svg?style=for-the-badge"/></p>
 
 ![Screenshot](/images/banner.png)
 
@@ -46,6 +46,14 @@ Para que la herramienta se siga actualizando puedes apoyar la herramienta dandol
 <details>
   <summary>[ v1.1 ]</summary>
   <p align="justify">[#] Se ha añadido el modulo de Snapchat.</p>
+</details>
+<details>
+  <summary>[ v1.2 ]</summary>
+  <p align="justify">[#] Se ha arreglado la funcion de Instagram y errores a la hora de finalizar el script.</p>
+</details>
+<details>
+  <summary>[ v1.3 ]</summary>
+  <p align="justify">[#] Se ha añadido el modulo de RevealName.</p>
 </details>
 
 # 📍 Como usar 📍
