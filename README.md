@@ -6,7 +6,7 @@ Esta herramienta se puede usar como una herramienta de OSINT para un número de 
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/PhoneAOI-purple"/></p>
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.3-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.5-purple.svg?style=for-the-badge"/></p>
 
 ![Screenshot](/images/banner.png)
 
@@ -54,6 +54,14 @@ Para que la herramienta se siga actualizando puedes apoyar la herramienta dandol
 <details>
   <summary>[ v1.3 ]</summary>
   <p align="justify">[#] Se ha añadido el modulo de RevealName.</p>
+</details>
+<details>
+  <summary>[ v1.4 ]</summary>
+  <p align="justify">[#] Se ha actualizado el menu y añadido nuevos modulos en estado de mantenimiento.</p>
+</details>
+<details>
+  <summary>[ v1.5 ]</summary>
+  <p align="justify">[#] Se ha añadido una funcion nueva de dorking de numeros de la herramienta PhoneInfoga.</p>
 </details>
 
 # 📍 Como usar 📍
