@@ -70,7 +70,7 @@ Para que la herramienta se siga actualizando puedes apoyar la herramienta dandol
 
 2. Una vez lo tengamos lo podremos descomprimir donde queramos y esperamos a que se descomprima.
 
-3. Una vez descomprimido deberemos ejecutar el ejecutable exe que nos dara una vez descomprimido.
+3. Una vez descomprimido deberemos ejecutar el archivo bat para instalar los requisitos, despues deberemos ejecutar el archivo exe que nos dara una vez descomprimido.
 
 4. Una vez dentro deberemos esperar un rato a que se cargue el banner y una vez nos haya cargado lo podamos usar, cuando cargue únicamente deberemos poner el número de la víctima como por ejemplo +34666775544.
 
